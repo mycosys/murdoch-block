@@ -19,7 +19,7 @@ console.log(`<!DOCTYPE html>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "ui95",
+        name: "${package.title}",
         repo: "https://github.com/AshKyd/adblock-murdoch-list",
         coverpage: false,
         themeColor: "#0000aa"
