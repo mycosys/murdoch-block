@@ -2,7 +2,7 @@
 [News Corp’s partisan campaign coverage is harmful to democracy](https://theconversation.com/new-low-for-journalism-why-news-corps-partisan-campaign-coverage-is-harmful-to-democracy-116796). Thus, this collection of URLs and blocklists for News Corp websites, to remove unpleasant surprises.
 
 ## Installation (Adblock)
-You can subscribe to this list with Adblock Plus:
+You can subscribe to this list on desktop using Adblock Plus:
 1. Make sure you have [Adblock Plus](https://adblockplus.org/) installed
 1. 👉 _[Click the link to subscribe](abp:subscribe?location=https://murdoch-block.ash.ms/adblock-plus.txt)_ 👈
 
@@ -17,6 +17,9 @@ You can add this list to your hosts file to block News Corp completely.
 
 1. Download the [hosts entries](http://murdoch-block.ash.ms/hosts.txt)
 2. Copy and paste the entries into your hosts file (if you don't know how to do this, ask a friend)
+
+## Installation (iPad/iPhone)
+No idea. If you know how to do this please submit a PR.
 
 ## Contributing
 Please feel free to contribute any links as a pull request or by creating a new issue.
