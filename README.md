@@ -1,4 +1,4 @@
-# Adblock Murdoch list
+# Murdoch Block
 [News Corp’s partisan campaign coverage is harmful to democracy](https://theconversation.com/new-low-for-journalism-why-news-corps-partisan-campaign-coverage-is-harmful-to-democracy-116796). Thus, this collection of URLs and blocklists for News Corp websites, to remove unpleasant surprises.
 
 ## Installation (Adblock)

@@ -22,7 +22,7 @@ console.log(`<!DOCTYPE html>
         name: "ui95",
         repo: "https://github.com/AshKyd/adblock-murdoch-list",
         coverpage: false,
-        themeColor: "#fff"
+        themeColor: "#0000aa"
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
