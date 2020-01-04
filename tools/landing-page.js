@@ -20,7 +20,7 @@ console.log(`<!DOCTYPE html>
     <script>
       window.$docsify = {
         name: "${package.title}",
-        repo: "https://github.com/AshKyd/adblock-murdoch-list",
+        repo: "https://github.com/AshKyd/murdoch-block",
         coverpage: false,
         themeColor: "#0000FF"
       };
