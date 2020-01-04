@@ -1,12 +1,16 @@
 {
   "name": "adblock-murdoch-list",
+  "title": "Murdoch Block - Block News Corp publications",
   "version": "1.0.0",
-  "description": "A list of URLs and blocklists for News Limited websites",
+  "description": "A list of URLs and blocklists for News Corp websites",
+  "homepage": "http://murdoch-block.ash.ms/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf dist; mkdir dist && npm run build:adblock",
-    "build:adblock": "node tools/adblock-plus > dist/adblock-plus.txt"
+    "build": "rm -rf dist; mkdir dist && npm run build:adblock && npm run build:hosts && npm run build:landing-page && cp README.md dist/",
+    "build:adblock": "node tools/adblock-plus > dist/adblock-plus.txt",
+    "build:hosts": "node tools/hosts > dist/hosts.txt",
+    "build:landing-page": "node tools/landing-page > dist/index.html"
   },
   "author": "Ash Kyd",
   "license": "ISC",

@@ -1,16 +1,28 @@
 # Adblock Murdoch list
-[News Corp’s partisan campaign coverage is harmful to democracy](https://theconversation.com/new-low-for-journalism-why-news-corps-partisan-campaign-coverage-is-harmful-to-democracy-116796). Thus, this collection of URLs and blocklists for News Limited websites.
+[News Corp’s partisan campaign coverage is harmful to democracy](https://theconversation.com/new-low-for-journalism-why-news-corps-partisan-campaign-coverage-is-harmful-to-democracy-116796). Thus, this collection of URLs and blocklists for News Corp websites, to remove unpleasant surprises.
 
-# Contributing
+## Installation (Adblock)
+You can subscribe to this list with Adblock Plus:
+1. Make sure you have [Adblock Plus](https://adblockplus.org/) installed
+1. [Click the link to subscribe](abp:subscribe?location=http://murdoch-block.ash.ms/adbliock-plus.txt)
+
+Or manually enter the url into your compatible ad blocker:
+
+```
+http://murdoch-block.ash.ms/adbliock-plus.txt
+```
+
+## Installation (Hosts file)
+You can add this list to your hosts file to block News Corp completely.
+
+1. Download the [hosts entries](http://murdoch-block.ash.ms/hosts.txt)
+2. Copy and paste the entries into your hosts file (if you don't know how to do this, ask a friend)
+
+## Contributing
 Please feel free to contribute any links as a pull request or by creating a new issue.
 
 New links should include:
 1. The URL in question
-2. Proof that this is a News Limited publication.
+2. Proof that this is a News Corp publication.
 
-This repo does not aim to tackle fake news as a whole, only that from News Limited/Rupert Murdoch publications.
-
-# TODO
-Eventually I'm going to write a script to convert these into various blocklists 
-for adblock & hosts file, but I've messed up my back and I'm in a fair amount of
-pain so I just want to push it and see what happens in the meantime.
+This repo does not aim to tackle fake news as a whole, only that from News Corp/Rupert Murdoch publications.

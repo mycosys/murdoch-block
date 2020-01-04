@@ -6,7 +6,7 @@ const parsedList = list.split("\n").map(row => row.split("\t"));
 
 console.log(`[Adblock Plus 2.0]
 ! Version: ${package.version}
-! Title: ${package.name}
+! Title: ${package.title}
 ! Last modified: ${new Date()}
 ! Expires: 30 days (update frequency)
 ! Homepage: ${package.homepage}
