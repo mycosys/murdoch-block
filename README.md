@@ -4,7 +4,7 @@
 ## Installation (Adblock)
 You can subscribe to this list with Adblock Plus:
 1. Make sure you have [Adblock Plus](https://adblockplus.org/) installed
-1. [Click the link to subscribe](abp:subscribe?location=https://murdoch-block.ash.ms/adblock-plus.txt)
+1. 👉 _[Click the link to subscribe](abp:subscribe?location=https://murdoch-block.ash.ms/adblock-plus.txt)_ 👈
 
 Or manually enter the url into your compatible ad blocker:
 
