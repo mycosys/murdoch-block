@@ -1,7 +1,7 @@
 # Murdoch Block
 [News Corp’s partisan campaign coverage is harmful to democracy](https://theconversation.com/new-low-for-journalism-why-news-corps-partisan-campaign-coverage-is-harmful-to-democracy-116796).
 
-Fed up with [the abysmal treatment by the Murdoch media during the Australian Bushfires](https://www.theguardian.com/media/2020/jan/04/the-australian-murdoch-owned-newspaper-accused-of-downplaying-bushfires-in-favour-of-picnic-races) I decided to make a blocklist so I never have to engage with their propaganda again.
+Fed up with [the abysmal treatment by the Murdoch media during the Australian Bushfires](https://www.theguardian.com/media/2020/jan/04/the-australian-murdoch-owned-newspaper-accused-of-downplaying-bushfires-in-favour-of-picnic-races) I decided to make a blocklist so I never have to engage with Murdoch propaganda again.
 
 Thus, this collection of URLs and blocklists for News Corp websites, to remove unpleasant surprises.
 
