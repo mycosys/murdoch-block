@@ -7,7 +7,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf dist; mkdir dist && npm run build:adblock && npm run build:hosts && npm run build:landing-page && cp README.md dist/",
+    "build": "rm -rf dist; mkdir dist && npm run build:adblock && npm run build:hosts && npm run build:landing-page && cp README.md list.tsv dist/",
     "build:adblock": "node tools/adblock-plus > dist/adblock-plus.txt",
     "build:hosts": "node tools/hosts > dist/hosts.txt",
     "build:landing-page": "node tools/landing-page > dist/index.html"

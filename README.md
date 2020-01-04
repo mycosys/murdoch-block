@@ -21,6 +21,8 @@ You can add this list to your hosts file to block News Corp completely.
 ## Contributing
 Please feel free to contribute any links as a pull request or by creating a new issue.
 
+Hosts should be added to [list.tsv](list.tsv).
+
 New links should include:
 1. The URL in question
 2. Proof that this is a News Corp publication.
