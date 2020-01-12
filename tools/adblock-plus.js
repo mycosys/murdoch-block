@@ -11,4 +11,6 @@ console.log(`[Adblock Plus 2.0]
 ! Expires: 30 days (update frequency)
 ! Homepage: ${package.homepage}
 !
-${parsedList.map(([name,domain]) => domain).join()}##body`);
+parsedList.forEach(([name,domain]) => {
+  console.log(`||${domain}^`+`$`+`document`);
+});
